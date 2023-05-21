@@ -1,0 +1,8 @@
+name: my_dash_env_2
+channels:
+  - defaults
+dependencies:
+  - python=3.9.12
+  - pip
+  - pip:
+    - -r req.txt
