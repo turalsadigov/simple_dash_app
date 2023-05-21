@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.9.12",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "fadd37d05babdd5f34396861222bab43"
+    },
+    ".DS_Store": {
+      "checksum": "8aeb7f37abbde2de95bb44089895dc3b"
+    },
+    "app.py": {
+      "checksum": "311968fbfb4bb92ecee657c54503a7a1"
+    }
+  }
+}
