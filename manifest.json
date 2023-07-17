@@ -16,10 +16,7 @@
   "files": {
     "requirements.txt": {
       "checksum": "fadd37d05babdd5f34396861222bab43"
-    },
-    ".DS_Store": {
-      "checksum": "8aeb7f37abbde2de95bb44089895dc3b"
-    },
+    }, 
     "app.py": {
       "checksum": "311968fbfb4bb92ecee657c54503a7a1"
     }
